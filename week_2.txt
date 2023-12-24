@@ -1,1 +1,10 @@
-learning
+<!DOCTYPE html>
+<html lang="en>
+<head>
+  <title>Nama dan Kelas</title>
+</head>
+<body>
+  <div id="nama">Muh. Mashaq Ramadhan. M</div>
+  <span class="kelas">Kelas B</span>
+  </body>
+  </html> 
